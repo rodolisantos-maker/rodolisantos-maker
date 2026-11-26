@@ -23,7 +23,7 @@ Telecom Mediation and OSS/BSS Systems Analyst with 8+ years at CSG providing pro
 
 **Telecom:** Telecom Mediation, CDR Processing (Call Detail Records), Roaming, OSS/BSS, Telecommunications  
 **Support / ITSM:** Production Support, Application Support, L2 Support, Incident Management, Problem Management, Root Cause Analysis (RCA), SLA Management, ITIL, IT Service Management (ITSM), Managed Services, IT Operations, Monitoring, On-call Support, Release Support, Crisis Management  
-**Technical:** Linux, Red Hat Linux, Unix, Shell Scripting (Bash), Python, SQL (queries and small one-off data fixes), Oracle, MySQL, SolarWinds, Power BI (dashboard analysis), ServiceNow, JIRA, User Acceptance Testing (UAT), Process Automation  
+**Technical:** Linux, Red Hat Linux, Unix, Shell Scripting (Bash), Python, SQL (queries and small one-off data fixes), Oracle, MySQL, SolarWinds, Power BI (dashboard analysis), ServiceNow, JIRA, User Acceptance Testing (UAT), Process Automation, AI Tools (Cursor), Generative AI, AI-assisted documentation, Process Documentation  
 **Business / Leadership:** Business Analysis, Systems Analysis, Requirements Gathering, Data Analysis, Stakeholder Management, Team Leadership, People Management, Coaching & Mentoring, Continuous Improvement  
 
 ## Experience
@@ -42,6 +42,7 @@ Team lead for telecom Mediation and Roaming operations (CDR collection and proce
 - Resolved production incidents and escalations on Unix/Red Hat Linux through Root Cause Analysis (RCA), using SQL queries, small one-off data fixes (Oracle, MySQL) and shell scripting.
 - Proactively analyzed existing Power BI dashboards to spot patterns of processing drops for the client, strengthening the client relationship and trust.
 - Tracked SLA and compliance in ServiceNow, JIRA and internal ticketing tools, with clearer updates and escalation paths for stakeholders.
+- Facing outdated process documentation, adopted Cursor, a Generative AI tool customized for CSG, to review, update and adapt internal procedures, speeding up procedure analysis and Root Cause Analysis and enabling quicker, more effective fixes to client business logic during production incidents where incorrect processing caused revenue loss, accelerating incident resolution and the client's revenue recovery.
 
 **Business Analyst II** · Sep 2019 – Nov 2021
 
