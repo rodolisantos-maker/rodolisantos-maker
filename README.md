@@ -2,13 +2,13 @@
 
 <img src="assets/headshot.jpg" alt="Portrait of Rodrigo Oliveira dos Santos" width="128" height="128">
 
-**Senior Billing & OSS/BSS Systems Analyst**
+**Telecom Mediation & OSS/BSS Systems Analyst**
 
-Telecom Billing & Mediation · Production Support · Unix/Linux · SQL · Python · ITIL · MBA in People Management
+Mediation · CDR & Roaming · Production Support · UAT · Unix/Linux · SQL · Python · ITIL · MBA in People Management
 
 Londrina, Paraná, Brazil · Open to on-site, hybrid or remote work
 
-Senior Billing and OSS/BSS Systems Analyst who helps telecom operators keep billing accurate and on time. For nearly eight years at CSG, supported end-to-end billing and mediation systems for customers across Latin America and North America, handling production incidents, escalations and SLA commitments, and keeping stakeholders informed through Jira and ServiceNow. Hands-on with Unix and Red Hat, SQL (Oracle, MySQL) and Python for analysis and troubleshooting, plus UAT support for new releases. ITIL Foundation certified, with an MBA in People Management at USP/Esalq focused on leadership, team development and data-driven decisions. Works fluently in English, Portuguese and Spanish.
+Telecom Mediation and OSS/BSS Systems Analyst with 8+ years at CSG supporting Mediation and Roaming solutions (CDR collection and processing) for telecom operators in North and Central America. As Senior Billing Systems Analyst, led a team of 6 analysts averaging 6–10 tickets per day under a 97% SLA target for operational tickets, plus a high volume of UAT for mediation developments and business-rule changes. Resolves production incidents and escalations through root cause analysis on Unix/Red Hat Linux, using SQL queries and small one-off data fixes (Oracle, MySQL), Python and shell scripting. Built process automation and an in-house operations platform that cut about 3–6 hours of manual work from recurring report and processing-log generation, and proactively analyzed existing Power BI dashboards to spot processing drops for the client. ITIL Foundation certified, MBA in People Management (USP/Esalq), fluent in English, Portuguese and Spanish.
 
 ## Contact
 
@@ -25,17 +25,20 @@ Senior Billing and OSS/BSS Systems Analyst who helps telecom operators keep bill
 
 **Senior Billing Systems Analyst** · Nov 2021 – Nov 2026
 
-- Led and developed a team of analysts through regular 1:1s, coaching them on both technical and soft skills and supporting their growth and learning plans.
-- Supported end-to-end customer billing and mediation processes for telecom clients in Latin America and North America, meeting contractual SLA deadlines.
-- Investigated and resolved production incidents and escalations on Unix/Red Hat environments, using SQL and scripting to trace data and billing issues.
+Team lead for telecom Mediation and Roaming operations (CDR collection and processing) for operators in North and Central America; billing and revenue assurance were run by third-party vendors.
+
+- Led and developed a team of 6 analysts through regular 1:1s, coaching them on both technical and soft skills and supporting their growth and learning plans.
+- Ran day-to-day mediation operations under a 97% SLA target for operational tickets; the team averaged 6–10 tickets per day across server monitoring alerts, service requests and continuous-improvement items.
+- Handled a high volume of UAT demands for mediation developments and business-rule changes.
+- Proactively analyzed existing Power BI dashboards to spot patterns of processing drops for the client, strengthening the client relationship and trust.
 
 **Business Analyst II** · Sep 2019 – Nov 2021
 
-Member of the Managed Services group supporting telecommunications customers across the Americas.
+Member of the Managed Services group supporting telecom operators' Mediation and Roaming solutions across the Americas.
 
-- Managed customer requests remotely and on-site, including travel, while supporting critical Mediation and Roaming solutions.
-- Led automation initiatives and continuous service improvements to increase operational efficiency and reduce manual activities.
-- Created an in-house operations platform designed to automate processes, standardize procedures, and improve monitoring and reporting.
+- Managed customer requests remotely and on-site, including travel, for critical Mediation and Roaming solutions.
+- Led automation initiatives and continuous process improvements to increase operational efficiency and reduce manual activities.
+- Created an in-house operations platform and automations that standardized procedures and improved monitoring and reporting, cutting about 3–6 hours of manual work from recurring report and processing-log generation.
 
 **Technical Support Analyst** · Apr 2018 – Sep 2019
 
@@ -78,7 +81,7 @@ Portuguese (Native) · English (Full professional proficiency) · Spanish (Profe
 
 ## Resumo em português
 
-Analista sênior de billing e sistemas OSS/BSS em Londrina, Paraná, aberto a trabalho presencial, híbrido ou remoto. Por quase oito anos na CSG, apoiou sistemas de billing e mediação de ponta a ponta para operadoras de telecom na América Latina e na América do Norte, tratando incidentes de produção, escalações e compromissos de SLA, com acompanhamento em Jira e ServiceNow. Atua com Unix e Red Hat, SQL (Oracle e MySQL) e Python na análise e no diagnóstico de falhas, além de suporte a testes de aceitação (UAT). Certificado ITIL Foundation, com MBA em Gestão de Pessoas pela USP/Esalq concluído em dezembro de 2025. Trabalha em inglês, português e espanhol.
+Analista de sistemas de mediação de telecom e OSS/BSS em Londrina, Paraná, aberto a trabalho presencial, híbrido ou remoto. Por mais de oito anos na CSG, apoiou soluções de Mediação e Roaming (coleta e processamento de CDRs) para operadoras de telecom na América do Norte e na América Central; faturamento e revenue assurance eram operados por empresas terceiras. Como Senior Billing Systems Analyst, liderou um time de 6 analistas que atendia em média 6 a 10 chamados por dia sob meta de SLA de 97% para chamados operacionais, além de alto volume de homologações (UAT) de desenvolvimentos e mudanças em regras de negócio. Atua com Unix e Red Hat, consultas SQL e correções pontuais de dados (Oracle e MySQL), Python e shell script na análise e no diagnóstico de falhas. Automações que eliminaram cerca de 3 a 6 horas de trabalho manual na geração de relatórios e logs de processamento, e análise proativa de dashboards Power BI existentes para identificar quedas de processamento. Certificado ITIL Foundation, com MBA em Gestão de Pessoas pela USP/Esalq concluído em dezembro de 2025. Trabalha em inglês, português e espanhol.
 
 ## CV
 
